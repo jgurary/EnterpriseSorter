@@ -14,8 +14,8 @@ public class Driver {
 		Item[] sortedFailed = sorterFailed.returnSorted();
 		int[] answerFailed = ItemFactory.getInstance().toInt(sortedFailed);
 		System.out.println(Arrays.toString(answerFailed));
-		
-		System.out.println("Hello world!");
+
+		System.out.println("Hello something else!");
 
 	}
 
